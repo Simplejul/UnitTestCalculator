@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-
+include 'src/Calculator.php';
 use PHPUnit\Framework\TestCase;
 
 
